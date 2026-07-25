@@ -1,6 +1,6 @@
 ## Hi, I'm Sharlene!
 
-I'm a computer science student at the University of Florida. 
+I'm a computer science student at the University of Florida. 🐊
 
 <!--
 **sharlenek/sharlenek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
